@@ -4,13 +4,25 @@
 
 
 .First_Row {
-    background-color: #ffe924
-}
-
-.Second_Row {
-    background-color: #9561e2;
+    background-color: #ffa500;
+    font-family: Chalkboard;
 }
 
 .Second_Row {
     background-color: #2d995b;
+    font-family: "Al Bayan";
+}
+
+.Third_Row {
+    background-color: #ffa500;
+    font-family: Avenir, Helvetica, sans-serif;
+}
+
+.Fourth_Row {
+    background-color: #1f6fb2;
+    font-family: ".SF NS Display";
+}
+
+.Fifth_Row {
+    background-color: coral;
 }
